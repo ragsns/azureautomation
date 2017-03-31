@@ -29,5 +29,4 @@ Sample values are in the file [NewHDiCluster.ps1](NewHDiCluster.ps1) which invol
 Step 4
 -------
 
-The final step involves importing both these runbooks and running the script  [NewHDiCluster.ps1](NewHDiCluster.ps1) which incorporates the template path from the other script and creates the ResourceGroup.
-
+The final step involves importing both these runbooks and running the script  [NewHDiCluster.ps1](NewHDiCluster.ps1) which incorporates the template path from the other script and calls the ResourceGroupDeployment as the final step.
