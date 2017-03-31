@@ -1,7 +1,7 @@
 Converting ARM Templates to Automation Scripts
 ==============================================
 
-Let's take the example of creating a HDinsight/Hadoop/Linux cluster.
+Let's take the example of creating a HDinsight/Hadoop/Linux cluster. Replace the TODOs with the appropriate values.
 
 Step 1
 -------
