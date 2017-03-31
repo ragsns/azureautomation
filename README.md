@@ -1,4 +1,4 @@
-SimpleScripts
+Simple Scripts
 =================
 
 Contains some simple scripts to
