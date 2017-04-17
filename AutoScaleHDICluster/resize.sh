@@ -18,5 +18,6 @@ do
     upscale="true"
     curl --connect-timeout 900 https://HDIAutoScale.azurewebsites.net/api/UpScaleCluster?code=<UpScaleCluster-function-Apikey>
   fi
+# sleep for 10 secs and check the jobs again
 sleep 10
 done
